@@ -17,5 +17,10 @@ Deployed Website- https://teoaldridge.github.io/dice-game/
 ## Images from Website
 
 
+https://user-images.githubusercontent.com/74827533/130334863-94637941-458d-4de5-8727-64aaf1e5461a.mp4
+
+
+
+
 ## Acknowledgement
 [The Complete 2021 Web Development Bootcamp by Dr. Angela Yu](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
