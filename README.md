@@ -7,7 +7,7 @@ A game with two players, in which a dice is rolled when the button "start" is pr
 **Challenge from the course "The Complete 2021 Web Development Bootcamp by Dr. Angela Yu".**
 
 ## Deployment
-Deployed Website- 
+Deployed Website- https://teoaldridge.github.io/dice-game/
 
 ## Built using
 * HTML
