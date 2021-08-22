@@ -1,6 +1,4 @@
-# dice-game
-A dice game that generates two random numbers for two dice and announces the winner. It was built using JavaScript, HTML &amp; CSS. 
-# The Dice Game
+ # The Dice Game
 
 A game with two players, in which a dice is rolled when the button "start" is pressed. The game generates two randomly chosen numbers and announces the winner according to the higher dice score. 
 
