@@ -19,12 +19,11 @@ body {
 }
 
 h1 {
-  margin: 30px;
+  margin: 1.875rem;
   font-family: 'Molle', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 6rem;
   color: #e6b31e;
-  text-align:center;
 }
 
 .btn-start {
